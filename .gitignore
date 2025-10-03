@@ -205,3 +205,13 @@ NASDK2.0_sample_code/.idea/caches/
 NASDK2.0_sample_code/.idea/codeStyles/Project.xml
 NASDK2.0_sample_code/.idea/misc.xml
 
+
+# User-specific IDE and OS files
+.idea/
+*.iml
+# Large binaries and libs
+*.pdf
+*.jar
+*.so
+# Git LFS placeholder (if used)
+.gitattributes
